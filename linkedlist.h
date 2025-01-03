@@ -1,5 +1,5 @@
-#ifndef linkedlist
-#define linkedlist
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
 
 struct node{
     char *token;
@@ -16,4 +16,4 @@ struct List{
     node* nTail;
 };
 
-#endif linkedlist
+#endif
