@@ -13,7 +13,6 @@ typedef struct node {
 
 struct List{
     node* nHead;
-    node* nTail;
 };
 
 #endif
